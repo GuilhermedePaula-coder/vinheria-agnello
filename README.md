@@ -10,5 +10,3 @@ Descrição:
 
 GitHub Pages: https://guilhermedepaula-coder.github.io/vinheria-agnello/
 
-gui pior coder 
-aaaa
