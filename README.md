@@ -1,3 +1,8 @@
 # vinheria-agnello
 
-Guilherme Eduardo de Lima
+Integrantes: 
+-> Guilherme Eduardo de Lima
+-> Guilherme de Paula Kuskowski
+-> 
+
+
