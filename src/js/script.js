@@ -28,3 +28,9 @@ alert("Cadastro realizado com sucesso! Veja os detalhes no console.");
 
 // Aviso do usuario 
 alert("A seguir, veja os detalhes do vinho no console.");
+// ===== console ===== //
+console.log("===== Detalhes do Vinho Cadastrado =====");
+console.log("Nome do vinho: " + nomeVinho);
+console.log("Tipo do vinho: " + tipoVinho);
+console.log("Safra: " + safra);
+console.log("Quantidade em estoque: " + quantidadeEstoque);
