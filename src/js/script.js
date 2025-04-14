@@ -18,3 +18,8 @@ var safra = prompt("Informe o ano da safra (ex: 2018):");
 while (!safra) {
   safra = prompt("Campo obrigatório! Informe o ano da safra (ex: 2018):");
 }
+//  Informando o estoque
+var quantidadeEstoque = prompt("Informe a quantidade em estoque:");
+while (!quantidadeEstoque) {
+  quantidadeEstoque = prompt("Campo obrigatório! Informe a quantidade em estoque:");
+}
