@@ -34,3 +34,19 @@ console.log("Nome do vinho: " + nomeVinho);
 console.log("Tipo do vinho: " + tipoVinho);
 console.log("Safra: " + safra);
 console.log("Quantidade em estoque: " + quantidadeEstoque);
+
+// =====  Estoque ===== //
+if (quantidadeEstoque < 5) {
+  console.log("⚠️ ESTOQUE BAIXO");
+}
+
+// =====  Safra ===== //
+if (safra >= 2020) {
+  console.log("Classificação da safra: Vinho jovem");
+} else if (safra >= 2015 && safra <= 2019) {
+  console.log("Classificação da safra: Vinho amadurecido");
+} else if (safra < 2015) {
+  console.log("Classificação da safra: Vinho antigo");
+}
+
+console.log("========================================");
