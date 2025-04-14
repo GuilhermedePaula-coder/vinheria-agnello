@@ -15,7 +15,7 @@
     align-items: center;
     text-align: center;
     padding: 20px;}
-      /* Container para centralizar o conteúdo */
+   
   .container {
     background-color: rgba(0, 0, 0, 0.6);
     padding: 40px;
@@ -29,14 +29,14 @@
   .container:hover {
     transform: scale(1.02);
   }
-  /* Título principal */
+
   h1 {
     font-size: 2.5rem;
     margin-bottom: 20px;
     color: #f5deb3;
   }
 
-  /* Descrição do projeto */
+ 
   p {
     font-size: 1.2rem;
     line-height: 1.6;
