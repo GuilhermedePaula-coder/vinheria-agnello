@@ -29,3 +29,17 @@
   .container:hover {
     transform: scale(1.02);
   }
+  /* Título principal /
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #f5deb3;
+  }
+
+  / Descrição do projeto */
+  p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    color: #f8e1d4;
+  }
