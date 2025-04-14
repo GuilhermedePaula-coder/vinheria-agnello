@@ -13,3 +13,8 @@ var tipoVinho = prompt("Informe o tipo do vinho (Tinto, Branco ou Rosé):");
 while (!tipoVinho) {
   tipoVinho = prompt("Campo obrigatório! Informe o tipo do vinho (Tinto, Branco ou Rosé):");
 }
+// Informando a safra do vinho
+var safra = prompt("Informe o ano da safra (ex: 2018):");
+while (!safra) {
+  safra = prompt("Campo obrigatório! Informe o ano da safra (ex: 2018):");
+}
