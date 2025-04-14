@@ -23,3 +23,8 @@ var quantidadeEstoque = prompt("Informe a quantidade em estoque:");
 while (!quantidadeEstoque) {
   quantidadeEstoque = prompt("Campo obrigatório! Informe a quantidade em estoque:");
 }
+// Confirmação do cadastro 
+alert("Cadastro realizado com sucesso! Veja os detalhes no console.");
+
+// Aviso do usuario 
+alert("A seguir, veja os detalhes do vinho no console.");
