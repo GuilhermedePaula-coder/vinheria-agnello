@@ -6,7 +6,7 @@ Integrantes:
 -> Matheus Gomes Stefaneli
 -> Enzo de Faria Ferreira
 
-Descrição: 
+Descrição: Página de Cadastro de Vinhos para Vinheria Agenello.
 
 GitHub Pages: https://guilhermedepaula-coder.github.io/vinheria-agnello/
 
